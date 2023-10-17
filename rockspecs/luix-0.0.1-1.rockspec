@@ -1,13 +1,13 @@
-package = "lunix"
+package = "luix"
 version = "0.0.1-1"
 source = {
-    url = "git+https://github.com/Hacknique/Lunix.git",
+    url = "git+https://github.com/Hacknique/Luix.git",
     tag = "v0.0.1"
 }
 description = {
     summary = "A Lua implemented kernel",
     detailed = "Lunix is a kernel implemented in Lua.",
-    homepage = "https://github.com/Hacknique/Lunix",
+    homepage = "https://github.com/Hacknique/Luix",
     license = "LGPLv3 or later"
 }
 dependencies = {
