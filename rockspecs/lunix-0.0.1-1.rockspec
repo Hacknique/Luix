@@ -1,7 +1,7 @@
 package = "lunix"
 version = "0.0.1-1"
 source = {
-    url = "git+https://github.com/Hacknique/Lunix.git"
+    url = "git+https://github.com/Hacknique/Lunix.git",
     tag = "v0.0.1"
 }
 description = {
