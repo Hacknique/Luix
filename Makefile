@@ -1,5 +1,5 @@
 LUAEXE=lua
-ROCKSPEC=rockspecs/lunix-0.0.1-1.rockspec
+ROCKSPEC=rockspecs/luix-0.0.1-1.rockspec
 
 install:
 	luarocks make --local $(ROCKSPEC)
