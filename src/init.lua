@@ -1,7 +1,3 @@
-function say_hello()
-    print("Hello, world!")
-end
-
-return {
-    say_hello = say_hello
-}
+kernel = {}
+dofile("./src/utilities.lua")
+dofile("./src/syscalls/init.lua")
